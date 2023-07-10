@@ -23,5 +23,13 @@ z-=40;
 system.out.println(z);
 x-=30;
 system.out.println(x=<z);
+--y;
+system.out.println(y);
+++y;
+system.out.println(y);
+y--;
+system.out.println(y);
+y++;
+system.out.println(y);
 }
 }
